@@ -33,8 +33,8 @@ Posisi operator ++ menentukan kapan nilai variabel akan ditambah. Apabila dituli
 makan akan ditambah dulu. sedangkan, apabila ditulis di belakang akan ditambah belakangan. 
 Begitu pula sebaliknya jika diganti dengan operator --.
 
-nilai x = 7 nilai x = 10 
-nilai ++x = 8 nilai ++x = 10 //Perbedaan terjadi di sini 
+nilai x = 7 nilai x = 10 ; 
+nilai ++x = 8 nilai ++x = 10 //Perbedaan terjadi di sini ; 
 nilai akhir x = 8 nilai akhir x = 11
 
 Jadi, yang terjadi pada program tersebut adalah perbedaan di nilai akhir. Karena pada awalnya 
